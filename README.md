@@ -1,2 +1,2 @@
 # javascript
- Curso de JavaScript do Curso em Vídeo pika dms
+ Curso de JavaScript do Curso em Vídeo.
